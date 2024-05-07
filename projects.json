@@ -1,0 +1,68 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "urlImage": "/images/rickandmorty.jpg",
+            "title": "Rick & Morty Wiky",
+            "description": "Proyecto basado en consumir la Api de la serie Rick and Morty y realizar una wiki utlizando React, redux, react router dom y bootstrap.",
+            "preview": "https://rick-and-mortywiki.netlify.app/",
+            "stack": ["React", "Bootstrap"]
+        },
+        {
+            "id": 2,
+            "urlImage": "/images/pokewiki.jpg",
+            "title": "Pokemon Wiki",
+            "description": "Proyecto basado en consumir la PokeApi con React, Zustand, React Router Dom y Tailwind",
+            "preview": "https://pokemon-characters-wiki.netlify.app/",
+            "stack": ["React", "Tailwind"]
+        },
+        {
+            "id": 3,
+            "urlImage": "",
+            "title": "Buscador de personal",
+            "description": "Este proyecto con axios, react ",
+            "preview": "",
+            "stack": ["React", "Bootstrap"]
+        },
+        {
+            "id": 4,
+            "urlImage": "/images/movie-search.jpg",
+            "title": "Buscador de Peliculas",
+            "description": "Proyecto hecho con React, Redux y Tailwind el cual consume la API de IMDb de la pagina RapidAPI",
+            "preview": "https://cine-searcher.netlify.app/",
+            "stack": ["React", "Tailwind"]
+        },
+        {
+            "id": 5,
+            "urlImage": "/images/tic-tac-toe.jpg",
+            "title": "Tic-Tac-Toe",
+            "description": "Desarrollo del famoso juego Tateti. unir con el de midudev",
+            "preview": "",
+            "stack": ["React", "CSS"]
+        },
+        {
+            "id": 6,
+            "urlImage": "/images/x-in-line.jpg",
+            "title": "X en linea",
+            "description": "Desarrollo del juego 'X en línea'. Permite optar por jugar 4, 6 o 7 en línea. Este proyecto fue realizado durante el curso de la Tecnicatura Universitaria.",
+            "preview": "https://guidozoppo.github.io/TPInterfaces/tp2/entregable2/",
+            "stack": ["Javascript", "CSS"]
+        },
+        {
+            "id": 7,
+            "urlImage": "/images/fly-bird.jpg",
+            "title": "Fly Bird",
+            "description": "Desarrollo de juego del Pajaro Volador que debe ir esquivando obstaculos y sumando puntos. Este proyecto fue realizado durante el curso de la Tecnicatura Universitaria.",
+            "preview": "https://guidozoppo.github.io/TPInterfaces/tp3/entregable3/",
+            "stack": ["Javascript", "CSS"]
+        },
+        {
+            "id": 8,
+            "urlImage": "/images/garolfa.jpg",
+            "title": "Garolfa Red Social",
+            "description": "Desarrollo de red social del mundo animal. Este proyecto fue realizado durante el curso de la Tecnicatura Universitaria.",
+            "preview": "https://guidozoppo.github.io/TPInterfaces/tp5/entregable5/",
+            "stack": ["Javascript", "CSS"]
+        }
+]
+}
